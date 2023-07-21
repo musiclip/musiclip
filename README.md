@@ -14,7 +14,7 @@
 **경영경제학부** <br>
 *마케팅 전공* <br>
 ~~경제학~~ <br>
-* [인스타그램](https://www.instagram.com/dlttmd)
+* [인스타그램](https://www.instagram.com)
 * I like ⚽ 🏀 🏊‍♂️ 🏄
 * 🍺🍻
 - barista ☕
