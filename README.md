@@ -6,21 +6,20 @@
 
 ![Python](https://img.shields.io/badge/-Python-007396?style=flat&logo=Java&logoColor=ffffff)
 # Hi there 👋
-## Hi there 👋
-### Hi there 👋
-#### Hi there 👋
-##### Hi there 👋
+## 이승우 👋
+### 26세 👋
+#### 데이터 사이언티스트(예정) 👋
+##### 파이썬 공부중 👋
 ---
-**두껍게** <br>
-*기울임꼴* <br>
-~~취소선~~ <br>
-* 1번
-* 2번
+**경영경제학부** <br>
+*마케팅 전공* <br>
+~~경제학~~ <br>
+* [인스타그램](https://www.instagram.com/dlttmd)
 - 1번
-- 2번
-[네이버](https://www.naver.com)
+
 ```
 print('Hello')
 ```
 :smirk:
-:angry:
+:joy:
+🇰🇷
