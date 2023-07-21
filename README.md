@@ -15,7 +15,8 @@
 *마케팅 전공* <br>
 ~~경제학~~ <br>
 * [인스타그램](https://www.instagram.com/dlttmd)
-- 1번
+- barista :coffe:
+- Performance Marketer 💻
 
 ```
 print('Hello')
