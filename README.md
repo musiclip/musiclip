@@ -4,7 +4,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=musiclip)](https://github.com/musiclip/github-readme-stats)
 
-![python](https://img.shields.io/badge/-python-007396?style=flat&logo=Java&logoColor=ffffff)
+![Python](https://img.shields.io/badge/-Python-007396?style=flat&logo=Java&logoColor=ffffff)
 # Hi there 👋
 ## Hi there 👋
 ### Hi there 👋
